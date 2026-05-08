@@ -1,399 +1,117 @@
-# Qarqash - Arabic Desert Demon
+# Qarqash
 
-## Version Information
-- **Version**: 1.0.0
-- **Last Updated**: 2026-01-14
-- **Category**: DEMON_ANGEL
-- **Cultural Origin**: Arabian Peninsula (Bedouin and Arabian folklore)
+> Qarqash (القرقش) is a malevolent desert spirit from Bedouin and Arabian Peninsula folklore, described as a terrifying entity that haunts desolate desert regions and preys upon lone travelers and children who stray from safety.
 
-## Description
-
-Qarqash (القرقش, also spelled Qurqush, Garghash) is a terrifying desert demon from Arabian folklore, particularly prominent in Bedouin traditions of the Arabian Peninsula. Described as a monstrous humanoid entity that haunts desolate desert regions, the qarqash preys upon lone travelers, children, and the unwary, embodying the deadly dangers of the vast Arabian deserts.
-
-The qarqash is typically depicted as a grotesque humanoid with exaggerated or distorted features - enormous eyes, elongated limbs, sharp claws and teeth, and often a hunched or twisted posture. It dwells in remote wadis (dry riverbeds), abandoned ruins, caves, and the deep desert far from human habitation. The creature is associated with night, sandstorms, and the disorienting mirages of the desert landscape.
-
-In traditional Bedouin culture, the qarqash serves as both a genuine object of fear and a cautionary figure used to regulate behavior, particularly of children, and to emphasize the very real dangers of the desert environment. The demon represents the hostile, life-threatening nature of the arid wilderness and the supernatural dangers believed to lurk beyond the protective boundaries of camp and tribe.
-
-## Etymology and Cultural Context
-
-### Linguistic Origins
-- **Arabic root**: قرقش (qarqasha)
-- **Possible meanings**: To make noise, to frighten
-- **Regional variants**: Different pronunciations across Arabia
-- **Related terms**: Connected to words for monsters, terrors
-- **Onomatopoetic**: May imitate sounds made by creature
-
-### Cultural Background
-- **Bedouin tradition**: Nomadic desert peoples
-- **Pre-Islamic**: Ancient Arabian folklore
-- **Islamic period**: Adapted within Islamic worldview
-- **Oral tradition**: Passed down through storytelling
-- **Regional variation**: Different across Arabian Peninsula
-
-## Physical Characteristics
-
-### Appearance
-
-**Monstrous Features**
-- **Height**: Tall and lanky, 7-10 feet
-- **Build**: Emaciated, skeletal appearance
-- **Skin**: Dark, leathery, cracked like desert
-- **Limbs**: Elongated, disproportionate arms and legs
-- **Hands/feet**: Large claws, talons
-- **Posture**: Hunched, twisted, unnatural gait
-
-**Facial Features**
-- **Eyes**: Huge, bulging, glowing yellow or red
-- **Mouth**: Wide with sharp fanged teeth
-- **Nose**: Often absent or flattened
-- **Ears**: Large, pointed, bat-like
-- **Expression**: Terrifying, predatory leer
-- **Hair**: Wild, matted, or completely bald
-
-**Other Traits**
-- **Voice**: Harsh shrieking, bone-chilling screams
-- **Smell**: Foul odor of death and decay
-- **Movement**: Scuttling, spider-like locomotion
-- **Speed**: Surprisingly fast for ungainly appearance
-- **Sound**: Creates clicking, scratching noises
-
-### Regional Variations
-
-Different Arabian regions describe variations:
-- **Najd**: Emphasis on eye size
-- **Hijaz**: More humanoid features
-- **Yemen**: Integrated with mountain/cave dwelling
-- **Gulf**: Maritime adaptations in coastal areas
-- **Bedouin**: Pure desert demon characteristics
-
-## Habitat and Behavior
-
-### Dwelling Places
-
-**Desert Locations**
-- **Deep desert**: Far from human settlements
-- **Wadis**: Dry riverbeds and valleys
-- **Caves**: Natural rock formations
-- **Ruins**: Abandoned structures
-- **Sand dunes**: Shifting landscapes
-- **Oases**: Sometimes haunts water sources
-
-**Temporal Patterns**
-- **Nocturnal**: Primarily active at night
-- **Storms**: Appears during sandstorms
-- **Heat**: Extreme midday heat (less common)
-- **New moon**: Darkest nights preferred
-- **Seasonal**: More active in harsh weather
-
-### Hunting and Feeding
-
-**Prey Selection**
-- **Lone travelers**: Primary targets
-- **Lost persons**: Those separated from group
-- **Children**: Particularly vulnerable
-- **Sleeping victims**: Attack camps at night
-- **Weak individuals**: Sick or elderly
-
-**Methods**
-- **Stalking**: Follows at distance
-- **Ambush**: Waits at passes or water sources
-- **Deception**: Imitates voices, leads astray
-- **Direct attack**: Violent physical assault
-- **Psychological terror**: Drives mad before killing
-
-**What It Consumes**
-Accounts vary:
-- **Flesh and blood**: Physical consumption
-- **Life force**: Drains vital energy
-- **Fear**: Feeds on terror
-- **Souls**: Spiritual consumption
-- **Nothing**: Kills for malice alone
-
-### Behavior Patterns
-
-**Malevolent Activities**
-- **Killing travelers**: Main threat
-- **Kidnapping children**: Feared child-stealer
-- **Causing madness**: Drives victims insane
-- **Creating mirages**: Leads astray
-- **Poisoning wells**: Contaminates water
-- **Spreading disease**: Bringer of illness
-- **Disrupting camps**: Nighttime raids
-
-**Communication**
-- **Screams**: Terrifying shrieks
-- **Mimicry**: Imitates human voices
-- **Calls**: Luring victims with false sounds
-- **Silence**: Ominous quiet before attack
-- **Gestures**: Threatening postures
-
-## Powers and Abilities
-
-### Supernatural Capabilities
-
-**Desert Mastery**
-- **Navigation**: Never lost in desert
-- **Speed**: Crosses vast distances quickly
-- **Endurance**: Unaffected by heat, cold, thirst
-- **Invisibility**: Can become unseen
-- **Sandstorm control**: Commands desert winds
-- **Mirage creation**: Produces false visions
-
-**Physical Powers**
-- **Superhuman strength**: Tears victims apart
-- **Sharp claws**: Deadly weapons
-- **Fangs**: Venomous or crushing bite
-- **Resilience**: Hard to kill or injure
-- **Climbing**: Scales cliffs and structures
-- **Burrowing**: Digs into sand rapidly
-
-**Mental Powers**
-- **Fear inducement**: Radiates supernatural terror
-- **Confusion**: Causes disorientation
-- **Madness**: Drives victims insane
-- **Hypnosis**: Paralyzes with gaze
-- **Voice mimicry**: Imitates loved ones
-- **Nightmare sending**: Haunts dreams
-
-### Weaknesses
-
-**Protective Measures**
-- **Fire**: Wards off qarqash
-- **Iron**: Cold iron repels or harms
-- **Salt**: Protective circles
-- **Quranic verses**: Islamic protection
-- **Amulets**: Protective charms
-- **Communal safety**: Groups harder to attack
-- **Daylight**: Weakened or absent by day
-
-**Behavioral Vulnerabilities**
-- **Invitation**: Cannot enter camp unless invited
-- **Running water**: Cannot cross (some versions)
-- **Threshold**: Respects camp boundaries (sometimes)
-- **Names of God**: Invoking Allah drives away
-- **Courage**: Standing firm may repel
-- **Specific rituals**: Traditional protections work
-
-## Cultural Role and Significance
-
-### Social Functions
-
-**Behavioral Regulation**
-Qarqash stories teach:
-- **Stay with group**: Never wander alone
-- **Obey elders**: Follow leadership
-- **Respect desert**: Dangerous environment
-- **Night caution**: Stay in camp after dark
-- **Water discipline**: Guard precious resources
-- **Preparedness**: Maintain vigilance
-
-**Child Discipline**
-Used by parents:
-- **Obedience**: "Qarqash will get you"
-- **Bedtime enforcement**: Come inside at night
-- **Stay close**: Don't wander from camp
-- **Listen to warnings**: Respect adult authority
-- **Fear of unknown**: Teach caution
-
-### Practical Warnings
-
-**Real Dangers**
-Qarqash embodies genuine threats:
-- **Getting lost**: Fatal in desert
-- **Dehydration**: Death from thirst
-- **Exposure**: Extreme temperatures
-- **Wild animals**: Predators and venomous creatures
-- **Sandstorms**: Deadly weather
-- **Isolation**: Psychological breakdown
-- **Accidents**: Falls, injuries far from help
-
-**Survival Knowledge**
-Stories encode practical information:
-- Travel in groups
-- Respect water sources
-- Know landmarks
-- Prepare for weather
-- Trust experienced guides
-- Maintain supplies
-- Stay calm in crisis
-
-## Protection and Defense
-
-### Traditional Protections
-
-**Religious Measures** (Islamic)
-- **Bismillah**: "In the name of Allah"
-- **Ayat al-Kursi**: Throne verse (Quran 2:255)
-- **Al-Mu'awwidhatayn**: Protection surahs (113-114)
-- **Dhikr**: Remembrance of God
-- **Prayer times**: Regular salat protects
-- **Wudu**: Ritual cleanliness
-- **Tawakkul**: Trust in God
-
-**Physical Protections**
-- **Fire**: Keep fires burning all night
-- **Light**: Lamps ward off approach
-- **Weapons**: Knives, swords on hand
-- **Iron objects**: Hung around camp
-- **Salt**: Scattered at perimeter
-- **Noise**: Drums, bells to alert
-- **Dogs**: Warning animals
-
-**Magical Protections**
-- **Amulets** (ta'wiz): Written prayers
-- **Incense**: Burning protective herbs
-- **Blue beads**: Evil eye protection
-- **Kohl**: Applied for spiritual sight
-- **Henna**: Protective patterns
-- **Charms**: Various protective objects
-
-### If Encountered
-
-**Immediate Actions**
-1. **Invoke Allah**: Say "Bismillah" repeatedly
-2. **Recite Quran**: Any verses you know
-3. **Stand firm**: Don't run in panic
-4. **Face it**: Courage may repel
-5. **Make noise**: Shout, create commotion
-6. **Use light**: Fire, flashlight
-7. **Return to camp**: Seek group safety
-
-**Group Response**
-- Gather together
-- Light multiple fires
-- Recite prayers collectively
-- Arm with weapons
-- Stay awake in shifts
-- Wait for dawn
-
-## Modern Belief and Relevance
-
-### Contemporary Arabia
-
-**Current Belief**
-21st century context:
-- **Rural areas**: Stronger belief persists
-- **Elders**: Traditional knowledge holders
-- **Urban skepticism**: Educated urbanites doubtful
-- **Cultural heritage**: Recognized as folklore
-- **Children's tales**: Still used pedagogically
-- **Tourism**: Folk horror interest
-
-**Adaptations**
-- **Modern dangers**: Metaphor for contemporary threats
-- **Psychological**: Understood symbolically
-- **Cultural identity**: Part of Arab heritage
-- **Entertainment**: Horror media
-- **Educational**: Teaching desert survival
-
-### Popular Culture
-
-**Media Representations**
-- **Literature**: Arabic horror fiction
-- **Film**: Gulf cinema
-- **Television**: Drama series
-- **Comics**: Graphic novels
-- **Games**: Middle Eastern themed games
-- **Internet**: Creepypasta adaptations
-
-**Tourism**
-- Desert tourism includes folklore
-- Ghost tours in historic sites
-- Cultural heritage programs
-- Bedouin experience packages
-- Storytelling events
-
-## Comparative Demonology
-
-### Similar Entities
-
-**Arabian/Islamic Demons**
-- **Ghoul**: Desert flesh-eater
-- **Jinn/Ifrit**: Spirit beings
-- **Shiqq**: Half-bodied demon
-- **Si'lat**: Female night demon
-- **Nasnas**: Half-human creatures
-
-**Desert Demons Worldwide**
-- **Djinn** (broader category): Desert spirits
-- **Lamia** (Ancient Libya): Child-stealing monster
-- **Rakshasa** (India): Demon in deserts
-- **Aqrabuamelu** (Mesopotamia): Scorpion men
-- **Wendigo** (North America): Wilderness monster
-- **Bunyip** (Australia): Outback creature
-
-**Child-Threatening Figures**
-- **Baba Yaga** (Russia): Witch stealing children
-- **Bogeyman**: Universal child-scarer
-- **El Coco**: Spanish/Latin American
-- **Lamia**: Greek child-eater
-- **Various**: Cross-cultural cautionary figures
-
-## Scientific and Rational Perspectives
-
-### Natural Explanations
-
-**Environmental Factors**
-- **Desert mirages**: Optical illusions
-- **Heat exhaustion**: Hallucinations
-- **Dehydration**: Mental confusion
-- **Sandstorms**: Creating frightening shapes
-- **Night blindness**: Misidentifying shapes
-- **Fatigue**: Altered perception
-- **Isolation stress**: Psychological effects
-
-**Animal Candidates**
-- **Hyenas**: Desert scavengers
-- **Jackals**: Nocturnal predators
-- **Large lizards**: Monitor lizards
-- **Birds**: Large raptors at night
-- **Wild dogs**: Pack hunters
-- **Baboons**: Aggressive primates
-
-**Psychological Factors**
-- **Cultural conditioning**: Learned fear
-- **Pareidolia**: Seeing faces in randomness
-- **Anxiety**: Fear response
-- **Social reinforcement**: Shared belief
-- **Childhood trauma**: Lasting impressions
-- **Suggestion**: Expectation creates experience
-
-### Social Analysis
-
-**Functional Explanations**
-- **Social control**: Maintaining order
-- **Knowledge transmission**: Teaching survival
-- **Group cohesion**: Shared mythology
-- **Authority reinforcement**: Supporting elders
-- **Cultural identity**: Tribal traditions
-- **Entertainment**: Storytelling tradition
-
-### Academic Understanding
-
-Scholarly consensus:
-- **Folkloric entity**: Cultural construct
-- **No physical evidence**: No verified sightings
-- **Important tradition**: Significant cultural role
-- **Psychological reality**: Subjective experiences
-- **Social functions**: Valuable community purposes
-- **Respect required**: Valid cultural expression
-- **Continuing relevance**: Living folklore
-
-## Conclusion
-
-The qarqash represents a powerful embodiment of desert dangers in Arabian folkloric tradition, combining the very real threats of the harsh desert environment with supernatural terror. As a cautionary figure, the qarqash has served generations of Bedouin and Arabian peoples by encoding vital survival knowledge in memorable, frightening form, teaching essential lessons about the dangers of isolation, the importance of community, and the need for vigilance in hostile environments.
-
-While modern understanding attributes qarqash encounters to psychological factors, environmental conditions, and misidentification of natural phenomena, the demon retains cultural significance as a symbol of Arabian heritage and the ancient wisdom of desert peoples. The qarqash stories preserve traditional knowledge while providing insights into how cultures use supernatural beliefs to transmit practical information, regulate behavior, and maintain social cohesion.
-
-As Arabian societies modernize and urbanize, the qarqash evolves from literal monster to cultural metaphor, remaining relevant as a symbol of the unknown dangers that lurk beyond safety's boundaries - whether those boundaries are the camp's firelight or the familiar structures of modern life. The demon continues to haunt the edges of Arabian consciousness, a reminder of ancestral fears and the enduring power of folklore to shape understanding and behavior.
-
-## Bibliography and References (50+ sources on Arabian folklore, Bedouin culture, Islamic traditions, comparative mythology, desert ecology, etc.)
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-08-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-active-blue)
 
 ---
+## Quick Reference
 
-**Related Topics**: [Arabian Folklore] [Jinn] [Desert Demons] [Bedouin Culture] [Islamic Folklore] [Middle Eastern Mythology] [Monsters] [Oral Tradition]
+| Property | Value |
+|---|---|
+| **ID** | `qarqash` |
+| **Category** | DEMON_ANGEL |
+| **Subcategory** | Desert demon / predatory cautionary spirit |
+| **Primary range** | The qarqash tradition is found across the Arabian Peninsula, particularly in Bedouin oral traditions of the Gulf states, Saudi Arabia, and adjacent regions |
+| **Status** | active |
 
-**Category**: DEMON_ANGEL  
-**Origin**: Arabian Peninsula (Bedouin and Arabian traditions)  
-**Type**: Desert demon, predatory monster, cautionary figure  
-**Status**: Traditional folklore, cultural heritage, living oral tradition
+---
+## Overview
+
+Qarqash (Arabic: القرقش, also transliterated Qurqush or Garghash) is a dangerous supernatural being from Bedouin and Arabian folklore, prominent in the oral traditions of the Arabian Peninsula. The creature belongs to the broader category of desert spirits in Arabic tradition — beings that haunt uninhabited places and prey upon the unwary, closely related to the ghoul and jinn traditions of pre-Islamic and Islamic Arabian mythology. Like the ghoul, the qarqash is said to dwell in desolate areas, desert wastes, and remote locations, where it lies in wait for lone travelers, children who wander, and others who stray from the safety of community. The creature serves a cautionary function in Bedouin oral tradition, warning against the real and deadly dangers of the Arabian desert — where solitary travel and straying from known paths have historically been causes of death. The qarqash is particularly associated with child protection: parents traditionally invoked the threat of the qarqash to keep children from wandering into the desert at night. The name and entity are regional, circulating primarily in Bedouin and Gulf Arab oral tradition, and it is less systematically documented in written Arabic sources than major figures like the ghoul or ifrit.
+
+---
+## Names & Aliases
+
+| Name | Origin | Meaning |
+|---|---|---|
+| القرقش | Arabic | The qarqash; the original Arabic-script form of the name |
+| Qurqush | Arabic | Variant transliteration |
+| Garghash | Arabic / Gulf Arabic dialects | Variant form found in Gulf Arabic tradition |
+
+## Etymology
+
+- **Origin**: Arabian Peninsula; Bedouin oral tradition of the Arabian Peninsula and Gulf region
+- **Meaning**: The precise etymology of 'qarqash' is not established in available academic sources; it functions as a proper name for the entity within regional oral tradition
+- **First use**: Pre-modern Bedouin oral tradition; specific date unknown
+
+---
+## Related Phenomena
+
+- [Ghoul](../ghoul/) — _related_: The ghoul (غُول) is a related Arabian demon that also haunts desert wastes and preys on travelers; shares the desert-predator and child-danger functions
+- [Jinn](../jinn/) — _related_: The broad category of supernatural beings in Arabian and Islamic tradition, of which desert-haunting predatory spirits form a subset
+- [Ifrit](../ifrit/) — _related_: A powerful and often malevolent class of jinn in Islamic tradition, also associated with desolate places
+
+---
+## Physical Description
+
+- **Morphology**: The physical description of the qarqash is not standardized across sources; it is primarily defined by its predatory behavior and habitat rather than fixed physical attributes, consistent with the variability typical of Bedouin oral tradition.
+
+### Features
+
+| Feature | Description | Frequency |
+|---|---|---|
+| Terrifying humanoid form | Described as a monstrous humanoid entity; specific physical details vary by regional tradition | common |
+| Desert-adapted appearance | Associated with the desert environment; appearance reflects the terrifying aspects of desert wilderness | common |
+
+## Reported Abilities
+
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Preying on lone travelers | Hunts solitary travelers in desert regions, particularly at night | always | folklore |
+| Child abduction | Traditionally described as a threat to children who wander into desert or away from camp | common | folklore |
+| Deception and luring | Like related desert spirits (ghoul), may use deception or disguise to approach victims | occasional | folklore |
+
+## Behavior
+
+- **Activity**: nocturnal
+- **Disposition**: aggressive
+- **Social structure**: solitary
+- **Habitat**: desert wastes, uninhabited places, remote desert regions, areas far from settlements
+
+---
+## Distribution
+
+The qarqash tradition is found across the Arabian Peninsula, particularly in Bedouin oral traditions of the Gulf states, Saudi Arabia, and adjacent regions.
+
+
+---
+## Theories & Explanations
+
+### Paranormal / Cryptozoological
+
+**Literal desert demon** _(Bedouin oral tradition)_
+
+Within traditional Arabian belief systems, the qarqash is a real supernatural entity inhabiting desert wastes and preying on the unwary.
+
+### Skeptical
+
+**Cautionary personification of desert danger** _(Folklorists of Arabian tradition)_
+
+The qarqash is a culturally adaptive legend personalizing the very real dangers of the Arabian desert — dehydration, disorientation, and isolation — to discourage reckless or solitary travel, particularly by children.
+
+
+## Popular Culture
+
+
+**Other**: The qarqash continues to appear in Gulf Arab children's stories and folklore collections
+
+---
+## Sources
+
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
+
+
+## How to Report a Sighting
+
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
+
+---
+## License
+
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
+
+---
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
